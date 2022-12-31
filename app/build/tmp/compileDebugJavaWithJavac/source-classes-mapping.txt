@@ -1,0 +1,4 @@
+android/example/passwordgenerator/BuildConfig.java
+ android.example.passwordgenerator.BuildConfig
+android/example/passwordgenerator/MainActivity.java
+ android.example.passwordgenerator.MainActivity
